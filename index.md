@@ -87,7 +87,11 @@ in_menu: true
         </ul>
       
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <p>Candidate pour le Nouveau Front Populaire, je suis aussi élue Conseillère des Français de l'étranger et Membre de l'Assemblée des Français de l'étranger.
+
+Secrétaire internationale adjointe du Parti Socialiste français, je soutiens également le parti socialiste belge, mon deuxième parti. Engagée pour la défense d'une Europe solidaire au service des citoyens de puis de nombreuses années, j'ai également été en charge de l'égalité femmes-hommes au parti socialiste pendant plusieurs années, créant le réseau féministe, et le triple dispositif de lutte contre les violences faites aux femmes. 
+
+Mère de deux enfants, je suis en Belgique depuis 15 ans et j'ai vécu auparavant en France, Aux Pays bas, en Allemagne et au Royaume Uni. J'aime voyage, jouer de la musique et défendre les combats qui me tiennent à cœur : la lutte pour l'environnement et contre le changement climatique, la défense des services publics et pour une société solidaire et tolérante, la lutte contre les inégalités mondiales, en particulier entre les femmes et les hommes.</p>
       </div>
     </article>
   
@@ -114,7 +118,7 @@ in_menu: true
         </ul>
 
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <p>Paragraphe à remplacer par une biographie et positionnement sur les enjeux.</p>
       </div>
     </article>
   </div>
@@ -171,16 +175,17 @@ in_menu: true
 
 <section id="inscription">
   <div>
-    <h2>Votez à l'étranger</h2>
+    <h2>Voter à l'étranger</h2>
 
     <ul>
       <li>Vous voulez voter en ligne ?</li>
+      <li>Vous voulez connaître votre bureau de vote ?</li>
       <li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
     </ul>
 
-    <p>Retrouvez les informations pour voter en ligne sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">A remplacer</a></p>
+    <p>Retrouvez les informations pour voter en ligne (au premier tour, du 25 juin à midi au jeudi 27 juin 2024 à midi, heure de Paris) sur <a href="https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/elections-legislatives-2024/presentation-du-vote-par-internet/">diplomatie.gouv.fr</a></p>
 
-    <p>Trouvez où <strong>voter les 30 juin et 7 juillet</strong> en <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Belgique</a>, au<a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Pays-Bas</a> ou au <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Luxembourg</a></p>
+    <p>Trouvez où <strong>voter les 30 juin et 7 juillet</strong> en <a href="https://bruxelles.consulfrance.org/Ou-voter-3097">Belgique</a>, au <a href="https://amsterdam.consulfrance.org/Bureau-de-vote-Amsterdam-ou-La-Haye-1263">Pays-Bas</a> ou au <a href="https://lu.ambafrance.org/Elections-legislatives-anticipees-de-2024-rendez-vous-a-Lux-Expo">Luxembourg</a></p>
 
 <p>Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a></p>
   </div>
