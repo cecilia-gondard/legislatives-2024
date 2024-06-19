@@ -153,7 +153,7 @@ in_menu: true
 
 <section id="voter">
   <div>
-    <h2>Voter à l'étranger</h2>
+    <h2>Voter en Belgique, aux Pays-Bas et au Luxembourg</h2>
 
     <ul>
       <li>Vous voulez voter en ligne ?</li>
