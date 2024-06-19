@@ -171,7 +171,7 @@ in_menu: true
          <a href="https://t.co/zh0UthlhMj" class="btn">Faire une procuration</a>
       </div>
       <div>
-        <a href="#inscription" class="btn">Retrouvez toutes les informations pour voter sur la 4e circonscription des Français de l'étranger (Belgique, Pays-Bas et Luxembourg)</a>
+        <a href="#voter" class="btn">Retrouvez toutes les informations pour voter sur la 4e circonscription des Français de l'étranger (Belgique, Pays-Bas et Luxembourg)</a>
       </div>
     </div>
   </div>
