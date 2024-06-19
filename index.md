@@ -87,11 +87,11 @@ in_menu: true
         </ul>
       
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Candidate pour le Nouveau Front Populaire, je suis aussi élue Conseillère des Français de l'étranger et Membre de l'Assemblée des Français de l'étranger.
+        <p>Candidate pour le Nouveau Front Populaire, je suis aussi élue Conseillère des Français de l'étranger et Membre de l'Assemblée des Français de l'étranger.</p>
 
-Secrétaire internationale adjointe du Parti Socialiste français, je soutiens également le parti socialiste belge, mon deuxième parti. Engagée pour la défense d'une Europe solidaire au service des citoyens de puis de nombreuses années, j'ai également été en charge de l'égalité femmes-hommes au parti socialiste pendant plusieurs années, créant le réseau féministe, et le triple dispositif de lutte contre les violences faites aux femmes. 
+        <p>Secrétaire internationale adjointe du Parti Socialiste français, je soutiens également le parti socialiste belge, mon deuxième parti. Engagée pour la défense d'une Europe solidaire au service des citoyens de puis de nombreuses années, j'ai également été en charge de l'égalité femmes-hommes au parti socialiste pendant plusieurs années, créant le réseau féministe, et le triple dispositif de lutte contre les violences faites aux femmes.</p>
 
-Mère de deux enfants, je suis en Belgique depuis 15 ans et j'ai vécu auparavant en France, Aux Pays bas, en Allemagne et au Royaume Uni. J'aime voyage, jouer de la musique et défendre les combats qui me tiennent à cœur : la lutte pour l'environnement et contre le changement climatique, la défense des services publics et pour une société solidaire et tolérante, la lutte contre les inégalités mondiales, en particulier entre les femmes et les hommes.</p>
+        <p>Mère de deux enfants, je suis en Belgique depuis 15 ans et j'ai vécu auparavant en France, Aux Pays bas, en Allemagne et au Royaume Uni. J'aime voyage, jouer de la musique et défendre les combats qui me tiennent à cœur : la lutte pour l'environnement et contre le changement climatique, la défense des services publics et pour une société solidaire et tolérante, la lutte contre les inégalités mondiales, en particulier entre les femmes et les hommes.</p>
       </div>
     </article>
   
