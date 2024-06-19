@@ -23,6 +23,10 @@ in_menu: true
       </div>
 
       <div>
+        <a href="#voter" class="btn">Comment voter</a>
+      </div>
+
+      <div>
         <a href="#procuration" class="btn">Faire une procuration</a>
       </div>
     </div>
@@ -183,7 +187,7 @@ in_menu: true
       <li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
     </ul>
 
-    <p>Retrouvez les informations pour voter en ligne (au premier tour, du 25 juin à midi au jeudi 27 juin 2024 à midi, heure de Paris) sur <a href="https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/elections-legislatives-2024/presentation-du-vote-par-internet/">diplomatie.gouv.fr</a></p>
+    <p>Retrouvez les informations pour <strong>voter en ligne</strong> (au premier tour, du 25 juin à midi au jeudi 27 juin 2024 à midi, heure de Paris) sur <a href="https://www.diplomatie.gouv.fr/fr/services-aux-francais/voter-a-l-etranger/elections-legislatives-2024/presentation-du-vote-par-internet/">diplomatie.gouv.fr</a></p>
 
     <p>Trouvez où <strong>voter les 30 juin et 7 juillet</strong> en <a href="https://bruxelles.consulfrance.org/Ou-voter-3097">Belgique</a>, aux <a href="https://amsterdam.consulfrance.org/Bureau-de-vote-Amsterdam-ou-La-Haye-1263">Pays-Bas</a> ou au <a href="https://lu.ambafrance.org/Elections-legislatives-anticipees-de-2024-rendez-vous-a-Lux-Expo">Luxembourg</a></p>
 
@@ -198,7 +202,7 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Liège, Luxembourg ou Rotterdam chaque vote compte pour faire gagner le Nouveau Front Populaire et battre l'extrême-droite !</p>
+    <p>Que vous soyez électeur ou électrice à Luxembourg, Liège ou Leyde, chaque vote compte pour faire gagner le Nouveau Front Populaire et battre l'extrême-droite !</p>
   </div>
 </section>
 
