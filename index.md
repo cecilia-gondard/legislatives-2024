@@ -9,17 +9,17 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
+    <h1>Le 30 juin et le 7 juillet, <br />votez Cécilia Gondard !</h1>
   </div>
 </header>
 
 <section class="entete">
   <div>
-    <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
 
     <div class="buttons">
       <div>
-        <a href="#programme" class="btn">Notre programme</a>
+        <a href="#programme" class="btn">Le programme</a>
       </div>
 
       <div>
@@ -37,28 +37,22 @@ in_menu: true
 
     <ul>
       <li>
-        Pour notre pouvoir d’achat et les droits sociaux
+        Reprendre profession de foi de Cécilia
       </li>
       <li>
-        Pour la démocratie et l’égalité entre toutes et tous
+        Mesure 2
       </li>
       <li>
-        Pour notre santé et nos services publics
+        Mesure 3
       </li>
       <li>
-        Pour le vivant et le climat
-      </li>
-      <li>
-        Pour la relocalisation des industries et des emplois
-      </li>
-      <li>
-        Pour la paix partout, en Ukraine et à Gaza
+        Mesure 4
       </li>
     </ul>
 
     <div class="buttons">
       <div>
-        <a href="https://www.nouveaufrontpopulaire.fr/" class="btn">Voir le programme en détail</a>
+        <a href="https://www.nouveaufrontpopulaire.fr/" class="btn">Voir le programme du Nouveau Front Populaire en détail</a>
       </div>
 
       <div>
@@ -73,11 +67,11 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Nom Prénom candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
       </div>
 
       <div>
-        <h2>Nom Prénom</h2>
+        <h2>Cécilia Gondard</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
@@ -100,11 +94,11 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Nom Prénom suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Catherine Libeaut suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
       </div>
 
       <div>
-        <h2>Nom Prénom - suppléante</h2>
+        <h2>Catherine Libeaut - suppléante</h2>
 
         <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
         <ul>
@@ -129,7 +123,7 @@ in_menu: true
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:nomdumail@blabla.com">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:contactpsbxl@gmail.com">contactpsbxl@gmail.com</a></p>
   </div>
 </section>
 
@@ -162,14 +156,14 @@ in_menu: true
   
     <h2>Votez par procuration</h2>
   
-    <p>Il vous suffit de connaitre votre numéro de bureau de vote.</p>
+    <p>Il vous suffit de remplir le formulaire ci-dessous.</p>
 
     <div class="buttons">
       <div>
-         <a href="https://actionpopulaire.fr/procuration" class="btn">Faire une procuration</a>
+         <a href="https://t.co/zh0UthlhMj" class="btn">Faire une procuration</a>
       </div>
       <div>
-        <a href="#inscription" class="btn">Trouver mon bureau de vote</a>
+        <a href="#inscription" class="btn">Retrouvez toutes les informations pour voter sur la 4e circonscription des Français de l'étranger (Belgique, Pays-Bas et Luxembourg)</a>
       </div>
     </div>
   </div>
@@ -177,14 +171,18 @@ in_menu: true
 
 <section id="inscription">
   <div>
-    <h2>Votre bureau de vote</h2>
+    <h2>Votez à l'étranger</h2>
 
     <ul>
-      <li>Vous ne savez pas quel est votre bureau de vote ?</li>
+      <li>Vous voulez voter en ligne ?</li>
       <li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
     </ul>
 
-    <p>Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a></p>
+    <p>Retrouvez les informations pour voter en ligne sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">A remplacer</a></p>
+
+    <p>Trouvez où <strong>voter les 30 juin et 7 juillet</strong> en <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Belgique</a>, au<a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Pays-Bas</a> ou au <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Luxembourg</a></p>
+
+<p>Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a></p>
   </div>
 </section>
 
@@ -195,10 +193,10 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites voter autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Liège, Luxembourg ou Rotterdam chaque vote compte pour faire gagner le Nouveau Front Populaire et battre l'extrême-droite !</p>
   </div>
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
-</section>
+    Candidature de Cécilia Gondard et Catherine Libeaut sur la 4e circonscription des Français de l'étranger.
+</section> 
