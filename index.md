@@ -177,7 +177,7 @@ in_menu: true
   </div>
 </section>
 
-<section id="inscription">
+<section id="voter">
   <div>
     <h2>Voter à l'étranger</h2>
 
