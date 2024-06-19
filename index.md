@@ -37,7 +37,7 @@ in_menu: true
   <div>
     <h2>Notre programme</h2>
 
-    <h3>100 jours pour tout changer avec le Nouveau Front Populaire</h3>
+    <h3>Changer le quotidien des Français de l'étranger avec le Nouveau Front Populaire</h3>
 
     <ul>
       <li>
@@ -56,7 +56,7 @@ in_menu: true
 
     <div class="buttons">
       <div>
-        <a href="https://www.nouveaufrontpopulaire.fr/" class="btn">Voir le programme du Nouveau Front Populaire en détail</a>
+        <a href="https://www.nouveaufrontpopulaire.fr/" class="btn">Le programme du Nouveau Front Populaire</a>
       </div>
 
       <div>
@@ -75,20 +75,7 @@ in_menu: true
       </div>
 
       <div>
-        <h2>Cécilia Gondard</h2>
-
-        <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
-        <ul>
-          <li>
-            Point à retenir sur notre candidat·e numéro 1
-          </li>
-          <li>
-            Point à retenir sur notre candidat·e numéro 2
-          </li>
-          <li>
-            Point à retenir sur notre candidat·e numéro 3
-          </li>
-        </ul>
+        <h2>Cécilia Gondard - candidate</h2>
       
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
         <p>Candidate pour le Nouveau Front Populaire, je suis aussi élue Conseillère des Français de l'étranger et Membre de l'Assemblée des Français de l'étranger.</p>
@@ -107,19 +94,6 @@ in_menu: true
 
       <div>
         <h2>Catherine Libeaut - suppléante</h2>
-
-        <!-- Ci-dessous 3 points à retenir sur votre suppléant·e (faire court !) -->
-        <ul>
-          <li>
-            Point à retenir sur notre suppléant·e 1
-          </li>
-          <li>
-            Point à retenir sur notre suppléant·e 2
-          </li>
-          <li>
-            Point à retenir sur notre suppléant·e 3
-          </li>
-        </ul>
 
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
         <p>Paragraphe à remplacer par une biographie et positionnement sur les enjeux.</p>
