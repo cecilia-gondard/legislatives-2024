@@ -124,14 +124,13 @@ in_menu: true
       <li>
         Lundi 24 juin à 18h30 à Bruxelles : grand meeting à la Maison du Peuple
       </li>
-    <ul>
       <li>
         Mardi 25 juin à 18h00 à Luxembourg : réunion publique au Café Français
       </li>
-    <ul>
       <li>
         Mercredi 26 juin à 20h00 à La Haye : réunion publique au Studio Loos
       </li>
+    </ul>
 
     <div class="buttons">
       <div>
