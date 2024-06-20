@@ -89,7 +89,7 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Catherine Libeaut suppléante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Catherine Libeaut suppléante pour le Front Populaire le 30 juin" src="./images/DSC_0598-Photoroom-carre.png">
       </div>
 
       <div>
