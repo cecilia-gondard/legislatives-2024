@@ -36,20 +36,32 @@ in_menu: true
   <div>
     <h2>Notre programme</h2>
 
-    <h3>Changer le quotidien des Français de l'étranger avec le Nouveau Front Populaire</h3>
+    <h3>Quelques mesures pour changer le quotidien des Français de l'étranger avec le Nouveau Front Populaire</h3>
 
     <ul>
       <li>
-        Reprendre profession de foi de Cécilia
+        Rétablir des services publics de proximité : tournées consulaires, bureaux de vote
       </li>
       <li>
-        Mesure 2
+        Dire NON au tout numérique : réintégrer l'accueil téléphonique et réduire les délais de prise de prise de rendez-vous
       </li>
       <li>
-        Mesure 3
+        Reconnaître tous les diplômes Benelux-France
+      </li>
+    </ul>
+      <li>
+        Instaurer une carte européenne de handicap avec la France et les pays du Benelux, suspendre le moratoire sur l'accueil des adultes handicapés français en Belgique, et créer suffisamment de places d'accueil en France
+      </li>
+    </ul>
+      <li>
+        Respecter et revoir le calcul des droits à la retraite, supprimer les certificats de vie et fiscaliser les retraites françaises en France
+      </li>
+    </ul>
+      <li>
+        Défendre le réseau AEFE dans sa mission de service public
       </li>
       <li>
-        Mesure 4
+        Sauver les Alliances françaises et tous les acteurs associatifs oeuvrant pour la culture française et la francophonie
       </li>
     </ul>
 
