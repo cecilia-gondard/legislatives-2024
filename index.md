@@ -23,10 +23,6 @@ in_menu: true
       </div>
 
       <div>
-        <a href="#contact" class="btn">Les événements</a>
-      </div>
-
-      <div>
         <a href="#voter" class="btn">Comment voter</a>
       </div>
 
@@ -137,7 +133,7 @@ in_menu: true
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
       </div>
     </div>
-<p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
+    <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
   </div>
 </section>
 
