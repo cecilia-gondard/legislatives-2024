@@ -23,10 +23,6 @@ in_menu: true
       </div>
 
       <div>
-        <a href="#evenements" class="btn">Les événements</a>
-      </div>
-
-      <div>
         <a href="#voter" class="btn">Comment voter</a>
       </div>
 
@@ -116,7 +112,7 @@ in_menu: true
   </div>
 </section>
 
-<section class="evenements">
+<section class="contact">
   <div>
     <h2>Nos événements</h2>
 
