@@ -23,6 +23,10 @@ in_menu: true
       </div>
 
       <div>
+        <a href="#contact" class="btn">Les événements</a>
+      </div>
+
+      <div>
         <a href="#voter" class="btn">Comment voter</a>
       </div>
 
@@ -133,6 +137,7 @@ in_menu: true
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
       </div>
     </div>
+<p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
   </div>
 </section>
 
@@ -208,5 +213,5 @@ in_menu: true
 </section>
 
 <section class="footer">
-    <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
+    Site de campagne de Cécilia Gondard et Catherine Libeaut, candidates aux législatives les 30 juin et 7 juillet 2024 sur la 4ème circonscription des Français de l'étranger.
 </section> 
