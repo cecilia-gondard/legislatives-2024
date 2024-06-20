@@ -36,7 +36,7 @@ in_menu: true
   <div>
     <h2>Notre programme</h2>
 
-    <h3>Quelques mesures pour changer le quotidien des Français de l'étranger avec le Nouveau Front Populaire</h3>
+    <h3>Changer le quotidien des Français du Benelux avec le Nouveau Front Populaire</h3>
 
     <ul>
       <li>
