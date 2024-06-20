@@ -48,15 +48,12 @@ in_menu: true
       <li>
         Reconnaître tous les diplômes Benelux-France
       </li>
-    </ul>
       <li>
         Instaurer une carte européenne de handicap avec la France et les pays du Benelux, suspendre le moratoire sur l'accueil des adultes handicapés français en Belgique, et créer suffisamment de places d'accueil en France
       </li>
-    </ul>
       <li>
         Respecter et revoir le calcul des droits à la retraite, supprimer les certificats de vie et fiscaliser les retraites françaises en France
       </li>
-    </ul>
       <li>
         Défendre le réseau AEFE dans sa mission de service public
       </li>
