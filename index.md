@@ -15,7 +15,7 @@ in_menu: true
 
 <section class="entete">
   <div>
-    <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/JJZ_4234_ok-Photoroom(1).png">
 
     <div class="buttons">
       <div>
@@ -71,7 +71,7 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Cécilia Gondard candidate pour le Front Populaire le 30 juin" src="./images/JJZ_4234_ok-Photoroom(1).png">
       </div>
 
       <div>
