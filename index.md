@@ -23,7 +23,7 @@ in_menu: true
       </div>
 
       <div>
-        <a href="#contact" class="btn">Les événements</a>
+        <a href="#evenements" class="btn">Les événements</a>
       </div>
 
       <div>
@@ -116,7 +116,7 @@ in_menu: true
   </div>
 </section>
 
-<section class="contact">
+<section class="evenements">
   <div>
     <h2>Nos événements</h2>
 
