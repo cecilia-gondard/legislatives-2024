@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 order: 1
-in_menu: false
+in_menu: true
 ---
 <header>
   <div>
@@ -29,7 +29,6 @@ in_menu: false
       <div>
         <a href="#procuration" class="btn">Faire une procuration</a>
       </div>
-    </div>
   </div>
 </section>
 
