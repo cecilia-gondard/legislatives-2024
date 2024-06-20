@@ -136,9 +136,6 @@ in_menu: true
       <div>
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
       </div>
-      <div>
-    <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
-      </div>
   </div>
 </section>
 
@@ -214,5 +211,5 @@ in_menu: true
 </section>
 
 <section class="footer">
-    Candidature de Cécilia Gondard et Catherine Libeaut sur la 4e circonscription des Français de l'étranger.
+    <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
 </section> 
