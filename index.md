@@ -112,7 +112,7 @@ in_menu: true
   </div>
 </section>
 
-<section id="contact">
+<section class="contact">
   <div>
     <h2>Nos événements</h2>
 
@@ -133,7 +133,6 @@ in_menu: true
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
       </div>
   </div>
-</section>
 
 <section class="logos_partis">
   <div>
