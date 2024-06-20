@@ -112,7 +112,7 @@ in_menu: true
   </div>
 </section>
 
-<section class="contact">
+<section id="contact">
   <div>
     <h2>Nos événements</h2>
 
