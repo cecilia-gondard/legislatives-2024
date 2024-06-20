@@ -105,7 +105,7 @@ in_menu: true
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:contactpsbxl@gmail.com">contactpsbxl@gmail.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
   </div>
 </section>
 
