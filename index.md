@@ -132,7 +132,9 @@ in_menu: true
       <div>
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
       </div>
+    </div>
   </div>
+</section>
 
 <section class="logos_partis">
   <div>
