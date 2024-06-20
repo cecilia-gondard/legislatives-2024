@@ -58,7 +58,7 @@ in_menu: true
         Défendre le réseau AEFE dans sa mission de service public
       </li>
       <li>
-        Sauver les Alliances françaises et tous les acteurs associatifs oeuvrant pour la culture française et la francophonie
+        Sauver les Alliances françaises et tous les acteurs associatifs œuvrant pour la culture française et la francophonie
       </li>
     </ul>
 
@@ -68,7 +68,7 @@ in_menu: true
       </div>
 
       <div>
-        <a href="#candidature" class="btn">Nos candidats</a>
+        <a href="#candidature" class="btn">Nos candidates</a>
       </div>
     </div>
   </div>
@@ -110,6 +110,30 @@ in_menu: true
       </div>
     </article>
   </div>
+</section>
+
+<section class="villes">
+  <div>
+        
+    <h2>Nos événements</h2>
+    
+    <ul>
+      <li>
+        Lundi 24 juin à 18h30 à Bruxelles : grand meeting à la Maison du Peuple
+      </li>
+    <ul>
+      <li>
+        Mardi 25 juin à 18h00 à Luxembourg : réunion publique au Café Français
+      </li>
+    <ul>
+      <li>
+        Mercredi 26 juin à 20h00 à La Haye : réunion publique au Studio Loos
+      </li>
+  </div>
+    <div class="buttons">
+      <div>
+        <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
+      </div>
 </section>
 
 <section class="contact">
