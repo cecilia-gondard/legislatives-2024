@@ -104,7 +104,9 @@ in_menu: true
         <h2>Catherine Libeaut - suppléante</h2>
 
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par une biographie et positionnement sur les enjeux.</p>
+        <p>Conseillère des Français.es de l’étranger depuis 2014, élue à l’Assemblée des Français.es de l’Étranger pour le Benelux en 2021 au sein du groupe d'Union de la gauche, je vis aux Pays-Bas depuis 24 ans. Riche de mon expérience d'élue locale et de mon engagement associatif et politique, je suis ravie d’être la suppléante de Cécilia à ces élections législatives anticipées pour le Benelux au nom du Nouveau Front Populaire qui a pour objectif de répondre aux urgences sociales, écologiques, démocratiques et pour la paix.</p>
+        <p>Adhérente depuis 2005 de Français du monde-ADFE, association reconnue d’utilité publique pour représenter les Français.e.s de l’étranger, je suis membre du Conseil d’administration et du Bureau National et j’en suis la Secrétaire générale depuis fin 2022. En charge du groupe Biodiversité, j’anime des actions de nettoyage et de lutte contre le plastique dans le cadre #Avrilpourlaplanète.</p>
+        <p>Membre d'EELV/Les écologistes Hors de France depuis 2010, j’en ai été la co-secrétaire durant deux ans. Militante associative et politique, je suis sensible à la vie de notre cité et à notre environnent. J’ai eu l’opportunité d’organiser des projections de films suivis de débats avec Marie-Monique Robin sur la transition écologique, sur la lutte contre les pesticides à travers le mouvement "Nous vous voulons des coquelicots" et de mobiliser pour les marches pour le climat aux Pays-Bas.</p>
       </div>
     </article>
   </div>
