@@ -119,6 +119,7 @@ in_menu: true
 <section class="contact">
   <div>
     <h2>Nos événements</h2>
+
     <ul>
       <li>
         Lundi 24 juin à 18h30 à Bruxelles : grand meeting à la Maison du Peuple
@@ -131,7 +132,7 @@ in_menu: true
       <li>
         Mercredi 26 juin à 20h00 à La Haye : réunion publique au Studio Loos
       </li>
-  </div>
+
     <div class="buttons">
       <div>
         <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
