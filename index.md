@@ -118,21 +118,16 @@ in_menu: true
 
     <ul>
       <li>
-        Lundi 24 juin à 18h30 à Bruxelles : grand meeting à la Maison du Peuple
+        Lundi 1er juillet : 18h Casino de Bonnevoie, 63 rue de Bonnevoie, Luxembourg 
       </li>
       <li>
-        Mardi 25 juin à 18h00 à Luxembourg : réunion publique au Café Français
+        Mardi 2 juillet : 20h au Splendor, Nieuwe Uilenburgerstraat 116, à Amsterdam
       </li>
       <li>
-        Mercredi 26 juin à 20h00 à La Haye : réunion publique au Studio Loos
+        Mercredi 3 juillet : 18h30 au Bassin, Quai aux Briques 74, Bruxelles
       </li>
     </ul>
 
-    <div class="buttons">
-      <div>
-        <a href="https://forms.gle/3dv7BHD7EibFi5f87/" class="btn">Infos et inscriptions</a>
-      </div>
-    </div>
     <p>Écrivez-nous à <a href="mailto:contact@ceciliagondard2024.fr">contact@ceciliagondard2024.fr</a></p>
   </div>
 </section>
